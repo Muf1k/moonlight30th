@@ -1,16 +1,22 @@
 <!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
-
 <div class="social-links">
-   {% if site.trade %}
-        <a class="link" data-title="steamcommunity.com/{{ site.trade }}" href="https://steamcommunity.com/{{ site.trade }}" target="_blank"  rel="noopener" alt="anchor link for social media github" aria-label="anchor link for social media github">
-            <i class="fa-solid fa-dollar-sign"></i>
+    {% if site.spotify %}
+        <a class="link" data-title="open.spotify.com/artist/{{ site.spotify }}" href="https://open.spotify.com/artist/{{ site.spotify }}" target="_blank" rel="noopener" alt="anchor link for social media youtube" aria-label="anchor link for social media youtube">
+            <i class="fa-brands fa-spotify"></i>
+        </a>
+    {% endif %}
+   
+<div class="social-links">
+    {% if site.youtube3 %}
+        <a class="link" data-title="youtube.com/{{ site.youtube3 }}" href="https://youtube.com/{{ site.youtube3 }}" target="_blank" rel="noopener" alt="anchor link for social media youtube" aria-label="anchor link for social media youtube">
+            <i class="fa-brands fa-youtube"></i>
         </a>
     {% endif %}
 
 <div class="social-links">
-    {% if site.f1 %}
-        <a class="link" data-title="muf1k.github.io/{{ site.f1 }}" href="https://muf1k.github.io/{{ site.f1 }}" target="_blank" rel="noopener" alt="anchor link for social media steam" aria-label="anchor link for social media steam">
-            <i class="fa-solid fa-car"></i>
+    {% if site.youtube2 %}
+        <a class="link" data-title="youtube.com/{{ site.youtube2 }}" href="https://youtube.com/{{ site.youtube2 }}" target="_blank" rel="noopener" alt="anchor link for social media youtube" aria-label="anchor link for social media youtube">
+            <i class="fa-brands fa-youtube"></i>
         </a>
     {% endif %}
 
