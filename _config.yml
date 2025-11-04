@@ -1,6 +1,6 @@
 # main text of home
-title: Mufik
-bio: Vítej, zde jsou veci které provozuji 
+title: Moonlight30th
+bio: NIC
 
 # twitter summary info
 description: Česky
@@ -34,16 +34,18 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-soundcloud: ndblvd
+soundcloud: moonlight161
 twitter: 
-instagram: nedebilni_videacz
+instagram: moonlight._.30th
 linkedin: 
-github: Muf1k
+github:
 discord: m3bs82QyCC
-youtube: "@NEDEBILNIVIDEAGROUP"
-steam: "id/MyBlueMufik"
-f1: vypal
-trade: "tradeoffer/new/?partner=1180394927&token=fsDGtWi9"
+youtube: "@Moonlight30th"
+youtube2: "@no.30records"
+youtube3: "@NEDEBILNIVIDEAGROUP"
+steam: 
+f1: 
+spotify: 2yYZHoljc5mtjqbxXnrGbP?si=44cde053c73f459c
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
